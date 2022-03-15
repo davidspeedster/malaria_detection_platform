@@ -1,3 +1,3 @@
-#Malaria Detection platform 
+# Malaria Detection platform 
 
 
